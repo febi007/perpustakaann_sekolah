@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b72e573-aa05-4ae0-bbeb-9d49508ea770" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Bo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/Bo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="788" column="36" lean-forward="true" selection-start-line="788" selection-start-column="36" selection-end-line="788" selection-end-column="36" />
+              <folding>
+                <element signature="e#8986#12601#0#PHP" />
+                <element signature="e#12610#13011#0#PHP" />
+                <element signature="e#13020#13442#0#PHP" />
+                <element signature="e#13451#14618#0#PHP" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#kategori#0;n#Bo#0;n#!!top" />
+                <element signature="e#19578#20950#0#PHP" />
+                <element signature="e#21217#21510#0#PHP" />
+                <element signature="e#21519#22644#0#PHP" />
+                <element signature="e#22653#23054#0#PHP" />
+                <element signature="e#23063#23257#0#PHP" />
+                <element signature="e#23266#23339#0#PHP" />
+                <element signature="n#lokasi#0;n#Bo#0;n#!!top" />
+                <element signature="n#peminjaman#0;n#Bo#0;n#!!top" />
+                <element signature="e#35955#36106#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="peminjaman.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/bo/pages/peminjaman.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="166" column="5" lean-forward="true" selection-start-line="149" selection-start-column="4" selection-end-line="166" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/bo/layout/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="271" column="31" lean-forward="true" selection-start-line="271" selection-start-column="31" selection-end-line="271" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buku.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/bo/pages/buku.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="167" column="16" lean-forward="true" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#button#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/auth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth_siswa.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/auth_siswa.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="74" column="47" lean-forward="true" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user_access_data</find>
+      <find>kas</find>
+      <find>field-date</find>
+      <find>jadwal</find>
+      <find>project</find>
+      <find>log</find>
+      <find>zakat</find>
+      <find>on kas</find>
+      <find>lokasi_pusat</find>
+      <find>lokasi</find>
+      <find>barcode</find>
+      <find>r</find>
+      <find>generate</find>
+      <find>gd</find>
+      <find>generate_kode</find>
+      <find>validatio</find>
+      <find>valida</find>
+      <find>pengurus</find>
+      <find>on pengurus</find>
+      <find>error</find>
+      <find>alert</find>
+      <find>insert</find>
+      <find>coun</find>
+      <find>count_join_data</find>
+      <find>join_data</find>
+      <find>insertDe</find>
+      <find>kembali</find>
+      <find>count_data_join</find>
+      <find>get_buku</find>
+      <find>cols</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/bo/pages/kegiatan.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d647d047-74f7-4bc6-9376-10d9bfce088c/console.sql" />
+        <option value="F:/freelance/sekolah/application/views/pages/kelas.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/Site.php" />
+        <option value="$PROJECT_DIR$/helpers/tgl_helper.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/kas.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/M_crud.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/Bo.php" />
+        <option value="$PROJECT_DIR$/config/routes.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/86f432a0-5a52-4b99-92ba-c1ed0ed303e1/console_1.sql" />
+        <option value="$PROJECT_DIR$/../node_server/index_print_baru.js" />
+        <option value="$PROJECT_DIR$/../assets/print/print.js" />
+        <option value="$PROJECT_DIR$/views/bo/pages/zakat.php" />
+        <option value="$PROJECT_DIR$/../../TA/masjid/application/config/config.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/jadwal.php" />
+        <option value="$PROJECT_DIR$/views/bo/layout/footer.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/project.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/log.php" />
+        <option value="$PROJECT_DIR$/views/bo/auth.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/pengurus.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/dashboard.php" />
+        <option value="E:/node_server/index_print_baru.js" />
+        <option value="$PROJECT_DIR$/controllers/Welcome.php" />
+        <option value="$USER_HOME$/penjualan_barang.php" />
+        <option value="$PROJECT_DIR$/controllers/Api.php" />
+        <option value="&lt;5d1ff436-edfd-4459-a65c-fc801fd6d73c&gt;/application/config/database.php" />
+        <option value="$USER_HOME$/Desktop/start_node_masjid.bat" />
+        <option value="&lt;5d1ff436-edfd-4459-a65c-fc801fd6d73c&gt;/application/views/bo/pages/zakat.php" />
+        <option value="&lt;5d1ff436-edfd-4459-a65c-fc801fd6d73c&gt;/etc/php/7.1/apache2/php.ini" />
+        <option value="&lt;5d1ff436-edfd-4459-a65c-fc801fd6d73c&gt;/application/controllers/Bo.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/kas.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/86f432a0-5a52-4b99-92ba-c1ed0ed303e1/console.sql" />
+        <option value="$PROJECT_DIR$/models/M_crud.php" />
+        <option value="$PROJECT_DIR$/views/bo/layout/wrapper.php" />
+        <option value="$PROJECT_DIR$/controllers/Auth.php" />
+        <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="$PROJECT_DIR$/views/bo/layout/top_menu.php" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0a766d00-3d10-4783-bfa9-1785fb48ed24/console.sql" />
+        <option value="$PROJECT_DIR$/views/bo/layout/side_menu.php" />
+        <option value="$PROJECT_DIR$/views/bo/layout/header.php" />
+        <option value="$PROJECT_DIR$/models/M_website.php" />
+        <option value="$PROJECT_DIR$/config/autoload.php" />
+        <option value="$PROJECT_DIR$/views/auth_siswa.php" />
+        <option value="$PROJECT_DIR$/views/auth.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/buku.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/riwayat_peminjaman.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/lokasi.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/kategori.php" />
+        <option value="$PROJECT_DIR$/views/bo/pages/peminjaman.php" />
+        <option value="$PROJECT_DIR$/controllers/Bo.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="bo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="bo" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="bo" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="remote&#9;ACTION&#9;WebDeployment.BrowseServers" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.13.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b72e573-aa05-4ae0-bbeb-9d49508ea770" name="Default" comment="" />
+      <created>1552632903540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552632903540</updated>
+      <workItem from="1552632905017" duration="665000" />
+      <workItem from="1555063259859" duration="3224000" />
+      <workItem from="1556460778430" duration="5732000" />
+      <workItem from="1556510787066" duration="65000" />
+      <workItem from="1558531971816" duration="908000" />
+      <workItem from="1564063448699" duration="209000" />
+      <workItem from="1564067497659" duration="7428000" />
+      <workItem from="1564113845797" duration="487000" />
+      <workItem from="1564736717687" duration="3037000" />
+      <workItem from="1564781388762" duration="36041000" />
+      <workItem from="1565100005636" duration="6199000" />
+      <workItem from="1565156024195" duration="34000" />
+      <workItem from="1565185297521" duration="3756000" />
+      <workItem from="1565235862168" duration="19000" />
+      <workItem from="1565223282631" duration="706000" />
+      <workItem from="1565244363968" duration="1242000" />
+      <workItem from="1565527338874" duration="9596000" />
+      <workItem from="1565554442464" duration="130000" />
+      <workItem from="1565584381231" duration="1028000" />
+      <workItem from="1565595131244" duration="611000" />
+      <workItem from="1565702325742" duration="3211000" />
+      <workItem from="1565711635478" duration="3778000" />
+      <workItem from="1565748766522" duration="13707000" />
+      <workItem from="1565776070641" duration="599000" />
+      <workItem from="1565779923526" duration="36000" />
+      <workItem from="1565916199982" duration="7163000" />
+      <workItem from="1565944977108" duration="10334000" />
+      <workItem from="1566018552950" duration="2135000" />
+      <workItem from="1566123630515" duration="9608000" />
+      <workItem from="1566146770359" duration="1426000" />
+      <workItem from="1566151237052" duration="15000" />
+      <workItem from="1566403467407" duration="5534000" />
+      <workItem from="1566442323111" duration="2768000" />
+      <workItem from="1566663446862" duration="13705000" />
+      <workItem from="1566904710675" duration="29968000" />
+      <workItem from="1567042943336" duration="2733000" />
+      <workItem from="1567098027899" duration="1773000" />
+      <workItem from="1567573103572" duration="474000" />
+      <workItem from="1567576286266" duration="476000" />
+      <workItem from="1567947878613" duration="5604000" />
+      <workItem from="1567329238616" duration="19000" />
+      <workItem from="1568743292974" duration="707000" />
+      <workItem from="1569564101721" duration="466000" />
+      <workItem from="1569565507718" duration="160000" />
+      <workItem from="1570426283243" duration="4542000" />
+      <workItem from="1570436095645" duration="1498000" />
+      <workItem from="1570508898350" duration="756000" />
+      <workItem from="1570512885888" duration="687000" />
+      <workItem from="1570596807469" duration="1286000" />
+      <workItem from="1570594872998" duration="5832000" />
+      <workItem from="1570718967559" duration="637000" />
+      <workItem from="1570784370367" duration="296000" />
+      <workItem from="1570797737221" duration="7215000" />
+      <workItem from="1570890189649" duration="2604000" />
+      <workItem from="1576561393186" duration="2230000" />
+      <workItem from="1576905016899" duration="4119000" />
+      <workItem from="1576999073987" duration="63000" />
+      <workItem from="1577003811296" duration="20762000" />
+      <workItem from="1577182881042" duration="23000" />
+      <workItem from="1578294274309" duration="4448000" />
+      <workItem from="1578461723987" duration="7123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="261637000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.33509833" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.49174917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4620462" visible="true" weight="0.26399395" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.23373677" />
+      <window_info id="Structure" order="1" sideWeight="0.5379538" side_tool="true" weight="0.22995462" />
+      <window_info anchor="bottom" id="CSS-X-Fire" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" anchor="bottom" id="Database Console" order="7" visible="true" weight="0.3910891" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48019803" visible="true" weight="0.18154311" />
+      <window_info id="Structure" order="1" sideWeight="0.519802" side_tool="true" weight="0.17927383" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" weight="0.19062027" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/DB_TEST_RESTORE_log.ldf" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/kas.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/M_crud.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Bo.php" />
+    <entry file="file://$PROJECT_DIR$/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/86f432a0-5a52-4b99-92ba-c1ed0ed303e1/console_1.sql" />
+    <entry file="file://$PROJECT_DIR$/../assets/print/print.js" />
+    <entry file="file://$PROJECT_DIR$/../../netindo/bo_npos_nov/application/views/bo/Penjualan/penjualan_barang.php" />
+    <entry file="file://$PROJECT_DIR$/../node_server/index_print_baru.js" />
+    <entry file="file://$PROJECT_DIR$/../../netindo/bo_npos_c/application/controllers/Master_data.php" />
+    <entry file="file://$PROJECT_DIR$/../../TA/masjid/application/config/config.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/kegiatan.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/log.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/auth.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/pengurus.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3392">
+          <caret line="212" column="23" selection-start-line="212" selection-start-column="23" selection-end-line="212" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/node_server/index_print_baru.js" />
+    <entry file="file://$USER_HOME$/penjualan_barang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="592" selection-start-line="592" selection-end-line="592" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/start_node_masjid.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/86f432a0-5a52-4b99-92ba-c1ed0ed303e1/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/zakat.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/kas.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/layout/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Api.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/layout/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/86f432a0-5a52-4b99-92ba-c1ed0ed303e1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>86f432a0-5a52-4b99-92ba-c1ed0ed303e1</OriginalElement>
+          <nodes>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.zakat</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.log</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.masjid</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.kel_assets</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.pengurus</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.user_akun</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.project</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.assets</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.kegiatan</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.jadwal</node>
+            <node x="" y="">86f432a0-5a52-4b99-92ba-c1ed0ed303e1.TABLE:db_masjid.kas</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="661.0" y="277.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/project.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/assets.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/jadwal.php" />
+    <entry file="file://$PROJECT_DIR$/views/bo/layout/wrapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/layout/top_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="131" selection-start-line="6" selection-start-column="131" selection-end-line="6" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/M_crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="71" column="35" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/layout/side_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/M_export_file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="139" column="47" selection-start-line="139" selection-start-column="47" selection-end-line="139" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0a766d00-3d10-4783-bfa9-1785fb48ed24/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="19" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/M_website.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/auth_siswa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="74" column="47" lean-forward="true" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/layout/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="271" column="31" lean-forward="true" selection-start-line="271" selection-start-column="31" selection-end-line="271" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/riwayat_peminjaman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/readerpdf.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/lokasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/kategori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/buku.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="167" column="16" lean-forward="true" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/bo/pages/peminjaman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="166" column="5" lean-forward="true" selection-start-line="149" selection-start-column="4" selection-end-line="166" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Bo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="788" column="36" lean-forward="true" selection-start-line="788" selection-start-column="36" selection-end-line="788" selection-end-column="36" />
+          <folding>
+            <element signature="e#8986#12601#0#PHP" />
+            <element signature="e#12610#13011#0#PHP" />
+            <element signature="e#13020#13442#0#PHP" />
+            <element signature="e#13451#14618#0#PHP" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#kategori#0;n#Bo#0;n#!!top" />
+            <element signature="e#19578#20950#0#PHP" />
+            <element signature="e#21217#21510#0#PHP" />
+            <element signature="e#21519#22644#0#PHP" />
+            <element signature="e#22653#23054#0#PHP" />
+            <element signature="e#23063#23257#0#PHP" />
+            <element signature="e#23266#23339#0#PHP" />
+            <element signature="n#lokasi#0;n#Bo#0;n#!!top" />
+            <element signature="n#peminjaman#0;n#Bo#0;n#!!top" />
+            <element signature="e#35955#36106#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
